@@ -89,6 +89,7 @@
             "correct answer": "b",
             "subject": "History"
     },
+
     {
             "question": "Is Australia considered an island?",
             "a": "Yes, because it is surrounded by water",
@@ -98,6 +99,7 @@
             "correct answer": "c",
             "subject": "Geography"
     },
+
     {
             "question": "Which one of these Hololives are not part of Gen 3?",
             "a": "Houshou Marine",
@@ -106,5 +108,85 @@
             "d": "Shirogane Noel",
             "correct answer": "c",
             "subject": "Hololive"
+    },
+
+    {
+            "question": "What country would have needed to be invaded in order to fight the French according to the Schlieffen Plan?",
+            "a": "Russia",
+            "b": "France",
+            "c": "Great Britain",
+            "d": "Belgium",
+            "correct answer": "d",
+            "subject": "History"
+    },
+
+    {
+            "question": "What country was a former Russian territory that later fought against it?",
+            "a": "Findland",
+            "b": "Germany",
+            "c": "America",
+            "d": "Georgia",
+            "correct answer": "a",
+            "subject": "History"
+    },
+
+    {
+            "question": "What is condensation?",
+            "a": "the process of a liquid turning into a solid",
+            "b": "the process of a solid turning into a gas",
+            "c": "the process of a gas turning into a solid",
+            "d": "the process of a gas turning into a liquid",
+            "correct answer": "d",
+            "subject": "Science"
+    },
+
+    {
+            "question": "What planet is the closest to the sun?",
+            "a": "Pluto",
+            "b": "Mercury",
+            "c": "Jupiter",
+            "d": "Venus",
+            "correct answer": "b",
+            "subject": "Science"
+    },
+
+    {
+            "question": "What is the smallest prime number?",
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "4",
+            "correct answer": "b",
+            "subject": "Mathematics"
+    },
+
+    {
+            "question": "What is the difference between a switch and a hub?",
+            "a": "A switch is usually cheaper than a hub",
+            "b": "A hub has less ports than a switch",
+            "c": "A hub can operate on Level 3 of the OSI model, and a switch can only operate on Level 2",
+            "d": "A hub can work like a router while a switch can only work as a switch",
+            "correct answer": "c",
+            "subject": "Computers"
+    },
+
+    {
+            "question": "What does DNS stand for?",
+            "a": "Domain Naming Schema",
+            "b": "Domain Name System",
+            "c": "Data Network Server",
+            "d": "Data Networking Service",
+            "correct answer": "b",
+            "subject": "Computers"
+    },
+
+    {
+            "question": "What is the max speed of CAT5E?",
+            "a": "1mbps",
+            "b": "10mbps",
+            "c": "100mbps",
+            "d": "1000mbps",
+            "correct answer": "d",
+            "subject": "Computers"
     }
 ]
